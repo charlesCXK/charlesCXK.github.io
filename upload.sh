@@ -1,3 +1,3 @@
-git add --all
+git add .
 git commit -m 'update'
-git push
+https_proxy=http://172.30.9.183:3228 
